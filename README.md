@@ -1,3 +1,4 @@
+# Tested for resoponivity on screen >=375 W  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
